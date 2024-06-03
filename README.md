@@ -26,7 +26,7 @@ Enhanced skills in C++ programming, including memory management, data structures
 Gained experience in developing and maintaining a real-world application, preparing for technical interviews and future employment opportunities in software development.
 This project highlights my ability to apply fundamental and advanced programming concepts to solve complex problems and develop robust applications.
 
-The course gave the following intructions for me to code:
+PLEASE SEE THE COURSE INTRUCTIONS FOR THE PROGRAM BELOW:
 
 You are hired as a contractor to help a university migrate an existing student system to a new platform using C++ language. Since the application already exists, its requirements exist as well, and they are outlined in the next section. You are responsible for implementing the part of the system based on these requirements. A list of data is provided as part of these requirements. This part of the system is responsible for reading and manipulating the provided data.
 
